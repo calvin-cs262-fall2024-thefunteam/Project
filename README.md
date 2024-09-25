@@ -11,6 +11,7 @@ Danyeol Chae, Brian Huynh, HaDong Park, Sungmin Choi, Jeffrey Arthur, YoungHa Kw
 
  
  ************** TO FIX ***************	
+ 
 Your vision statement has some useful material, but I suggest that you follow the template given in the elevator-test article:
     - In the first paragraph, start by identifying your customer and describing their needs. Then, you can explain how your system will help meet those needs. The key question here is to identify the problems we currently have with event lists.
     - In a second paragraph, compare your system with other similar systems and explain why yours is better. The key question here is how your app could be better than a simple event list, which we already have.
