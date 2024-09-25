@@ -1,5 +1,5 @@
-GetConnect Vision Statement
-Team F, the fun team
+# GetConnect Vision Statement
+## Team F, the fun team
 Jeffrey Arthur, Danyeol Chae, Sungmin Choi, Brian Huynh, YoungHa Kweon, HaDong Park
 
 For our team’s project, we hope to make an app that students in a university can use to help them find events/activities around campus, get involved, and join
