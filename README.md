@@ -1,4 +1,4 @@
-# GetConnect Vision Statement
+# EventSphere Vision Statement
 ### Team F, the fun team
 ### Jeffrey Arthur, Danyeol Chae, Sungmin Choi, Brian Huynh, YoungHa Kweon, HaDong Park
 
