@@ -18,3 +18,6 @@ These functions will help people find their community and become a reliable sour
  about them and join or even for club/ organization leaders to announce their events to their members. Individuals can also use this feature to get people together to do 
  something more spontaneous such as organizing a pickup sports games or getting people together for a movie somewhere. Overall, the app’s goal is to be the main source of news/ advertising for events around the campus, so that students can go through and see what is happening around 
  campus all in one app, making things easier for leaders and members.
+
+
+![prototype](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/HomePage%20Design.png
