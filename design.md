@@ -1,5 +1,3 @@
 # Design Specification
 
-prototype:
-
-![class diagram](https://github.com/calvin-cs262-fall2024-thefunteam/Project)
+![prototype](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/HomePage%20Design.png)
