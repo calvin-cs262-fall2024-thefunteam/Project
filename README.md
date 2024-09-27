@@ -20,4 +20,4 @@ These functions will help people find their community and become a reliable sour
  campus all in one app, making things easier for leaders and members.
 
 
-![prototype](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/HomePage%20Design.png
+![prototype](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/images/HomePage%20Design.png)
