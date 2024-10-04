@@ -21,5 +21,5 @@ These functions will help people find their community and become a reliable sour
 
 - [Mobile Client](https://github.com/calvin-cs262-fall2024-thefunteam/Client)
 - [Data Service](https://github.com/calvin-cs262-fall2024-thefunteam/Service)
-
+- [Design Model](https://github.com/calvin-cs262-fall2024-thefunteam/Project/design.md)
 ![prototype](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/images/HomePage%20Design.png)
