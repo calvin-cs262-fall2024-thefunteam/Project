@@ -1,6 +1,6 @@
 # EventSphere Vision Statement
 ### Team F, the fun team
-### Jeffrey Arthur, Danyeol Chae, Sungmin Choi, Brian Huynh, YoungHa Kweon, HaDong Park
+### Danyeol Chae, Sungmin Choi, Brian Huynh, YoungHa Kweon, HaDong Park
 
 For our team’s project, we hope to make an app that students in a university can use to help them find events/activities around campus, get involved, and join
 communities. We hope to develop an app for students or members of larger communities to help them get better connected to their community through events of all different
