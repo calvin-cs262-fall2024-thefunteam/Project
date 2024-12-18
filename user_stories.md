@@ -1,4 +1,6 @@
-User Story 1
+# User Stories
+
+## User Story 1
 
 Jake is a freshman who just got to Calvin and is interested in film and recreational sports. However, Jake didn’t get to see all the tables at cokes and clubs due to class and didn’t get to sign up for any of the clubs he wanted. 
 
@@ -9,7 +11,7 @@ Jake also wants to gather some people to play pick-up basketball, but him and hi
 Jake feels a huge connection to Calvin University and feels that he belongs here because he is informed of the many activities that are happening around campus thanks to EventSphere.
 
 
-User Story 2
+## User Story 2
 
 As an event organizer, I want to edit the event details after creation, so that I can update information based on any changes or new insights. (edit event, modify details, receive notifications-guests)
 
@@ -20,7 +22,7 @@ As an event organizer, I want to easily create an event by filling out a simple 
 As a user I would want to browse through events displayed as cards on the homepage, each card containing key details about the event. Here are the features I would want on the app: The homepage displays a list of event cards, Each event card shows the event title, date, time, location, and a preview image, The event card includes a button or link to view more details about the event, Events are sorted based on relevance (e.g., by upcoming date or location proximity), Users can scroll through or search/filter the event cards based on categories, date, or location. These features will enhance the browsing experience, allowing users to quickly scan through events and select ones that interest them.
 
 
-User Story 3 
+## User Story 3 
 
 When going into the app, an event at the top has a very long description and covers up the rest of the events that should be visible on the screen and when you scroll down all the events are different sizes and is distracting. 
 
