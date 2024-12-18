@@ -32,5 +32,5 @@ These features and functions help people find their community and become a relia
 - [Mobile Client](https://github.com/calvin-cs262-fall2024-thefunteam/Client)
 - [Data Service](https://github.com/calvin-cs262-fall2024-thefunteam/Service)
 - [Design Model](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/design.md)
-- [Test Script] (https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/User%20Test%20Scripts.pdf)
-- [Presentation] (https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/Presentations/Event%20Sphere.pptx)
+- [Test Script](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/User%20Test%20Scripts.pdf)
+- [Presentation](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/Presentations/Event%20Sphere.pptx)
