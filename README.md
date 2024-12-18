@@ -1,6 +1,6 @@
 # EventSphere Vision Statement
 ### Team F, the fun team
-### Jeffrey Arthur, Danyeol Chae, Sungmin Choi, Brian Huynh, YoungHa Kweon, HaDong Park
+### Danyeol Chae, Sungmin Choi, Brian Huynh, YoungHa Kweon, HaDong Park
 
 For our team’s project, we hope to make an app that students in a university can use to help them find events/activities around campus, get involved, and join
 communities. We hope to develop an app for students or members of larger communities to help them get better connected to their community through events of all different
@@ -19,7 +19,7 @@ These functions will help people find their community and become a reliable sour
  something more spontaneous such as organizing a pickup sports games or getting people together for a movie somewhere. Overall, the app’s goal is to be the main source of news/ advertising for events around the campus, so that students can go through and see what is happening around 
  campus all in one app, making things easier for leaders and members.
 
+
 - [Mobile Client](https://github.com/calvin-cs262-fall2024-thefunteam/Client)
 - [Data Service](https://github.com/calvin-cs262-fall2024-thefunteam/Service)
 - [Design Model](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/design.md)
-![prototype](https://github.com/calvin-cs262-fall2024-thefunteam/Project/blob/main/images/HomePage%20Design.png)
